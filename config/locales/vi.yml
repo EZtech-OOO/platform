@@ -23,9 +23,9 @@
 
   # default layout and dashboard
   home: Home
-  setup: Setup
+  setup: Cài Đặt
   web: Web
-  apps: Apps
+  apps: Ứng Dụng
   dashboard: Dashboard
   help: Help
   your_control_panel: Your Control Panel
@@ -38,7 +38,7 @@
   theme_by: Theme by
 
   # login
-  log_in: Log In
+  log_in: Đăng Nhập
   logged_in_successfully: "Logged in successfully"
   not_a_valid_user_or_password: "Error: Incorrect username or password"
   first_time_admin_setup: "First admin setup. Please re-create your user password."
