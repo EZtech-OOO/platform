@@ -27,61 +27,61 @@
   web: Web
   apps: Ứng Dụng
   dashboard: Dashboard
-  help: Help
+  help: Trợ Giúp
   your_control_panel: Your Control Panel
   feedback: Feedback
-  forums: Forums
+  forums: Diễn Đàn
   wiki: Wiki
   tracker: Tracker
   live_help: Live Help
-  about: About
+  about: Giới Thiệu
   theme_by: Theme by
 
   # login
   log_in: Đăng Nhập
-  logged_in_successfully: "Logged in successfully"
-  not_a_valid_user_or_password: "Error: Incorrect username or password"
-  first_time_admin_setup: "First admin setup. Please re-create your user password."
-  remember_me: Remember me
+  logged_in_successfully: "Đăng Nhập Thành Công"
+  not_a_valid_user_or_password: "Lỗi: Sai Tên Đăng Nhập hoặc Mật Khẩu"
+  first_time_admin_setup: "Cài Đặt Quyền Admin. Vui Lòng Khởi Tạo Lại Quyền Admin."
+  remember_me: Ghi Nhớ Đăng Nhập
 
   # setup panel tabs
   users: Users
   shares: Shares
   storage: Storage
   networking: Networking
-  themes: Themes
-  settings: Settings
+  themes: Giao Diện
+  settings: Cài Đặt
 
   # misc common stuff
-  cancel: Cancel
-  create: Create
-  created: Created
-  password: Password
-  change: Change
-  ip_address: IP Address
-  mac_address: MAC Address
+  cancel: Hủy Bỏ
+  create: Khởi Tạo
+  created: Đã Tạo
+  password: Mật Khẩu
+  change: Thay Đổi
+  ip_address: Địa Chỉ IP
+  mac_address: Địa Chỉ MAC
   comment: Comment
   details: Details
-  name: Name
+  name: Tên
   url: URL
-  confirm: Confirm
+  confirm: Xác Nhận
   access: Access
   debug: Debug
-  music: Music
-  pictures: Pictures
-  movies: Movies
+  music: Âm Nhạc
+  pictures: Hình Ảnh
+  movies: Điện Ảnh
   videos: Videos
-  docs: Docs
+  docs: Tài Liệu
   public: Public
   name_is_not_valid: Name is not valid
   name_looks_good: Name looks good
-  warning: WARNING
+  warning: CẢNH BÁO
   state: State
   there_is_no_undo: There is NO UNDO TO THIS DELETION.
-  ip_address: IP Address
-  path: Path
+  ip_address: Địa Chỉ IP
+  path: Đường Dẫn
   install_apps: Install apps!
-  open: Open
+  open: Mở
 
   # user tab
   username: Username
